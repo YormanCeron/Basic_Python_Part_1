@@ -1,4 +1,4 @@
-# Basic_Python_Part_1
+# Basic Python Part 1
 This repository is designed to share with you some exercises that I did to learn the basics of Python commands and syntax.
 
 Small collection of exercises and notebooks focused on Python fundamentals for data analysis.
